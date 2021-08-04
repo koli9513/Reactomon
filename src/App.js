@@ -7,11 +7,9 @@ class App extends Component {
     return (
     <Router>
       <div >
-        <header>
           <p>
             hello
           </p>
-        </header>
       </div>
     </Router>
   );
